@@ -3,6 +3,6 @@
     background-color: #02ccba;
   }
   body{
-    background-image: top.png;
+    background-image:url( top.png);
     color:aliceblue;
   }
