@@ -1,8 +1,8 @@
 .title {
-    color: #02ccba;
+    color:aliceblue;
     background-color: #02ccba;
   }
   body{
-    background-image:url( top.png);
+    background-image: url(top.png);
     color:aliceblue;
   }
