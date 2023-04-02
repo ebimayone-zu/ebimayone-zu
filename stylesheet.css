@@ -1,8 +1,13 @@
 .title {
     color:aliceblue;
     background-color: #02ccba;
+    border-radius: 4px;
   }
   body{
     background-image: url(top.png);
     color:aliceblue;
+  }
+
+  .title:hover{
+    opacity: 0.5;
   }
