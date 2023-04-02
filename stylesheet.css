@@ -2,6 +2,7 @@
     color:aliceblue;
     background-color: #02ccba;
     border-radius: 4px;
+    box-shadow:0 7px black;
   }
   body{
     background-image: url(top.png);
@@ -9,5 +10,10 @@
   }
 
   .title:hover{
-    opacity: 0.5;
+    opacity: 0.8;
+  }
+  .title:active{
+    box-shadow:none;
+    position: relative;
+    top:7px;
   }
